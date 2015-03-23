@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <gtk-3.0/gtk/gtk.h>
+#include <gtk/gtk.h>
 
 static void activate(GtkApplication *app,gpointer user_data)
 {
